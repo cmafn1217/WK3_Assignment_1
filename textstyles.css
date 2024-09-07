@@ -36,4 +36,8 @@ html {
     hr {
         border-top: 3px solid black;
     }
+    
+    li {
+        font-size: 23px;
+    }
 }
